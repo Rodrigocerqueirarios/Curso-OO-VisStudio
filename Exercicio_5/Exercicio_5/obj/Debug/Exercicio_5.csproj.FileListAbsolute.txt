@@ -1,0 +1,6 @@
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\bin\Debug\Exercicio_5.exe.config
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\bin\Debug\Exercicio_5.exe
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\bin\Debug\Exercicio_5.pdb
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\obj\Debug\Exercicio_5.csprojResolveAssemblyReference.cache
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\obj\Debug\Exercicio_5.exe
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_5\Exercicio_5\obj\Debug\Exercicio_5.pdb

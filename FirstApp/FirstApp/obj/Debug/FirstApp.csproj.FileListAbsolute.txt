@@ -1,0 +1,6 @@
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+d:\onedrive\documentos\visual studio 2017\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.pdb

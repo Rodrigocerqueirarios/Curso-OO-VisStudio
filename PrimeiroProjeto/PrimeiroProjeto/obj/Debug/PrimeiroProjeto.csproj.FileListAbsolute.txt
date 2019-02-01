@@ -1,0 +1,6 @@
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe.config
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.exe
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\PrimeiroProjeto.pdb
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.csprojResolveAssemblyReference.cache
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.exe
+d:\onedrive\documentos\visual studio 2017\Projects\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\PrimeiroProjeto.pdb

@@ -1,0 +1,5 @@
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_1\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_1\Exercicio_1\bin\Debug\Exercicio_1.exe
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_1\Exercicio_1\bin\Debug\Exercicio_1.pdb
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_1\Exercicio_1\obj\Debug\Exercicio_1.exe
+d:\onedrive\documentos\visual studio 2017\Projects\Exercicio_1\Exercicio_1\obj\Debug\Exercicio_1.pdb
